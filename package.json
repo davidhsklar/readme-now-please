@@ -1,0 +1,24 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "This creates a readme based on user responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhsklar/readme-now-please.git"
+  },
+  "keywords": [
+    "readme",
+    "David",
+    "Sklar"
+  ],
+  "author": "David Sklar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhsklar/readme-now-please/issues"
+  },
+  "homepage": "https://github.com/davidhsklar/readme-now-please#readme"
+}
