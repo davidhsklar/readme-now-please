@@ -1,4 +1,4 @@
-# readme
+# ReadmeGenerator
 
 
   ## Badges
@@ -27,23 +27,23 @@
 
   ## Description
 
-  it sets up a readme
+  it makes a readme based on user inputs
 
   ## Installation
 
-  npm i readmegenerator
+  working on it
 
   ## Usage
 
-  npm start
+  npm start index.js
 
   ## How to Contribute
   
-  me 
+  anyone can 
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests
   no tests
 
   ## Questions?
-  none
+  no questions!
