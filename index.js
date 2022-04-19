@@ -1,3 +1,5 @@
+//set up the local host server
+
 const express = require("express");
 const app = express();
 app.get("/", function (req, res) {
@@ -149,6 +151,8 @@ function userAnswers () {
     ])
 
 }
+// initial CLI instructions
+
 console.log('To exit, press ctl+c, but be sure to visit localhost:3000 first for a nice surpise!');
 
   //write the file
