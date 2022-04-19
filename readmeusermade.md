@@ -3,7 +3,7 @@
 
   ## Badges
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Table of Contents
 
@@ -22,28 +22,28 @@
   * [Questions?](#questions)
 
   ## License
-  Find out more about MIT by clicking here:
-  (https://opensource.org/licenses/MIT)
+  Find out more about Mozilla by clicking here:
+  (https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
-  a readme generator based on user inputs
+  makes a readme based on user inputs
 
   ## Installation
 
-  clone code and run index.js
+  clone code and run it
 
   ## Usage
 
-  index.js
+  npm start
 
   ## How to Contribute
   
-  anyone, but only 1 did 
+  anyone can contribute 
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests
-  there are no tests
+  no tests
 
   ## Questions?
-  I have no questions
+  no questions
